@@ -1,3 +1,4 @@
+
 import html.parser
 
 class MyHTMLParser(html.parser.HTMLParser):
@@ -18,7 +19,7 @@ def extract_bookmark_urls(bookmarks_file, output_file):
 
     Extract all URLs from bookmarks_file and write them to output_file.
 
-    bookmarks_file is a string that represents the path to the browser
+    bookmarks_file is a string that represents the path to the browser 
     bookmarks HTML file.
 
     output_file is a string that represents the path to the output text file.
