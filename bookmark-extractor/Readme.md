@@ -1,6 +1,6 @@
 # Bookmark Extractor
 
-This Python script can help you declutter your browser by extracting all the URLs from your Google Chrome bookmarks and writing them into a simple text file.
+This Python script can help you declutter your browser by extracting all the URLs from your Chromium based browser bookmarks and writing them into a simple text file.
 
 ## How to use
 
@@ -16,7 +16,7 @@ This Python script can help you declutter your browser by extracting all the URL
     * Run the following command:
 
 ```bash
-python be2.py
+python bookmark_extractor.py
 
 
 3. Check the output:
